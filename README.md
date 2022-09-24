@@ -23,3 +23,9 @@ The new dataset contains full credits for both the cast and the crew, rather tha
 Actor and actresses are now listed in the order they appear in the credits. It's unclear what ordering the original dataset used; for the movies I spot checked it didn't line up with either the credits order or IMDB's stars order.
 The revenues appear to be more current. For example, IMDB's figures for Avatar seem to be from 2010 and understate the film's global revenues by over $2 billion.
 Some of the movies that we weren't able to port over (a couple of hundred) were just bad entries. For example, this IMDB entry has basically no accurate information at all. It lists Star Wars Episode VII as a documentary.
+# Results and Webpage:
+
+![recommend1](https://user-images.githubusercontent.com/110339163/192099530-44183444-c6bd-4af6-bfa7-cc23fd054463.gif)
+
+![recommend2](https://user-images.githubusercontent.com/110339163/192099543-5518b378-0706-47a7-a1a5-c1c7a9cf8afe.gif)
+
